@@ -14,7 +14,7 @@ https://docs.google.com/document/d/1ktj2zCjs5KRSxJyzG6pE_WLLVYiohFrzYjKI9RA6FVM/
 
 ## テーブル設計
 
-https://dbdiagram.io/d/gakko_nikki-663723a45b24a634d0875d99
+https://dbdiagram.io/d/new_school_diary-66459356f84ecd1d224fdba9
 
 ## システム設計図
 
