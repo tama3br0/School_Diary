@@ -10,7 +10,7 @@ https://www.figma.com/file/pzpX2lYhJAuF45Uc6YKNxx/%E3%81%8C%E3%81%A3%E3%81%93%E3
 
 ## ワイヤーフレーム及び仕様詳細
 
-https://docs.google.com/document/d/1ktj2zCjs5KRSxJyzG6pE_WLLVYiohFrzYjKI9RA6FVM/edit?usp=sharing
+https://zenn.dev/iranorih/articles/714de66aeffdde
 
 ## テーブル設計
 
