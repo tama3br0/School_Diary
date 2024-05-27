@@ -18,4 +18,5 @@ https://dbdiagram.io/d/new_school_diary-66459356f84ecd1d224fdba9
 
 ## システム設計図
 
-現在、検討中です…！！
+./infrastructure.draw.io
+
