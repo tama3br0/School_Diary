@@ -20,4 +20,5 @@
 
 ## システム設計図
 
-![システム設計図](infrastructure.png)
+![システム設計図(初期運用)](infrastructure2.png)
+![システム設計図(長期運用)](infrastructure3.png)
